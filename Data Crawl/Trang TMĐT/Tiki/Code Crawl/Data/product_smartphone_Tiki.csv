@@ -1,0 +1,12 @@
+﻿id,sku,Date Crawled,brand_id,brand_name,store,product_name,current_price,discount_price,discount,colors,sold_quanlity,rating_count,rating_average
+242712374,6.91714E+12,3/11/2024,18802,Samsung,MT Smart Official Store ,Điện thoại Samsung Galaxy S23 Ultra 256GB - Hàng chính hãng,31990000,31990000,0,"[{'label': 'Black'}, {'label': 'Cream'}, {'label': 'Green'}, {'label': 'Lavender'}]",,0,0
+225960096,1.54034E+12,3/11/2024,18802,Samsung,GIA DỤNG VIỆT,Điện Thoại Samsung Galaxy S23+ 5G - Hàng Chính Hãng,25000000,25000000,0,"[{'label': '8GB/256GB'}, {'label': '8GB/512GB'}]",,0,0
+225228869,9.89881E+12,3/11/2024,18802,Samsung,Nguyễn Kim Official,Điện thoại Samsung Galaxy S23 Ultra 8GB/256GB Xanh lục - Hàng chính hãng,31990000,28330000,11,,,0,0
+274166857,7.5255E+12,3/11/2024,18802,Samsung,Long Hưng TechZone,Điện thoại Samsung Galaxy S23 FE (8GB/128GB) - Hàng chính hãng,14890000,14890000,0,"[{'label': 'Cam Tangerine'}, {'label': 'Tím Purple'}, {'label': 'Xanh Indigo'}]",,0,0
+242657652,2.30283E+12,3/11/2024,18802,Samsung,MT Smart Official Store ,Điện thoại Samsung Galaxy S23 Plus 256GB - Hàng chính hãng,26990000,26990000,0,[{'label': 'Black'}],,0,0
+244182370,5.9165E+12,3/11/2024,18802,Samsung,MT Smart Official Store ,Điện thoại Samsung Galaxy S23 Ultra 1TB - Hàng chính hãng,44990000,44990000,0,[{'label': 'Cream'}],,0,0
+242712931,5.32398E+12,3/11/2024,18802,Samsung,MT Smart Official Store ,Điện thoại Samsung Galaxy S23 Ultra 512GB - Hàng chính hãng,36990000,36990000,0,"[{'label': 'Black'}, {'label': 'Cream'}, {'label': 'Green'}, {'label': 'Lavender'}]",,0,0
+271966786,3.57719E+12,3/11/2024,17827,Apple,Tiki Trading,Apple iPhone 15,22490000,19490000,13,"[{'label': 'Hồng'}, {'label': 'Xanh Dương'}, {'label': 'Xanh Lá'}]",380,61,5
+271973414,7.60131E+12,3/11/2024,17827,Apple,Tiki Trading,Apple iPhone 15 Pro Max,33490000,30990000,7,"[{'label': 'Titan Trắng'}, {'label': 'Titan Tự Nhiên'}, {'label': 'Titan Xanh'}]",784,121,5
+271967379,6.75097E+12,3/11/2024,17827,Apple,Tiki Trading,Apple iPhone 15 Plus,25990000,22490000,13,[{'label': ' Đen'}],173,24,4.8
+271972435,1.23712E+12,3/11/2024,17827,Apple,Tiki Trading,Apple iPhone 15 Pro,27990000,25490000,9,[{'label': 'Titan Tự Nhiên'}],319,68,4.8

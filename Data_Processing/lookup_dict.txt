@@ -1,0 +1,278 @@
+sp:sản phẩm
+dt:điện thoại
+seal : tem mới
+gút chóp : tốt
+m : mình
+ok : tốt
+chẹp : đẹp
+đc : được
+da:đa
+dc : được
+gud:tốt
+vs : với
+ng : người
+triệu like:quá tốt
+feedback:phản hồi
+ngon lành cành đào:quá tốt
+dag:đang
+qc:quảng cáo
+k : không
+sd : sử dụng
+hd: hướng dẫn
+onl:online
+nt:nhắn tin
+ut:ultra
+tr:triệu
+ip:iphone
+ss:samsung
+j:gì
+t:ta
+ytb: youtuber
+shiper: giao hàng
+pm: promax
+lzd: lazada
+sộp pe: shoppe
+laz: lazada
+j&t:j&t
+mn:mọi người
+h:giờ
+lsau:lần sau
+hnay:hôm nay
+ổk: ok
+hcm:hồ chí minh
+₫:tuyệt
+vn:việt nam
+tgdd:thế giới di động
+tr:triệu
+r:rồi
+điểm:tuyệt
+prm:promax
+tot:tốt
+tin:tín
+sl:số lượng
+fb:facebook
+san:sản
+pham:phẩm
+rat:rất
+tot:tốt
+siu:siêu
+sie:siêu
+s:sử
+d:dụng
+ifan:iphone
+dien:điện
+thoai:thoại
+thi:thị
+truong:trường
+trương:trường
+bh:bao giờ
+e:em
+đt:điện thoại
+cbi:chuẩn bị
+ace:anh chị em
+bhdt:bảo hành
+lá:la
+zà:za
+la za da:lazada
+ko:không
+tr:triệu
+chuẩ:chuẩn
+vk:vợ
+ck:chồng
+tuyêtj:tuyệt
+kg:không
+kcan:không cần
+wow:tuyệt
+support:hỗ trợ
+good product packing:đóng gói sản phẩm tốt
+carefully and delivered quickly:giao hàng nhanh chống cẩn thận
+tb:thông báo
+rát:rất
+tôt:tốt
+chan:chán
+km:khuyến mãi
+cam:camera
+functionality:chức năng
+on:ổn
+unngr:ủng
+gof:tốt
+tks:cảm ơn
+cản:camera
+ban:bán
+mau:màu
+ti tan:titantu:tựnhien:nhiên
+nxet:nhận xét
+vn:việt nam
+e:em
+ae:anh em
+đgia:đại gia
+đồng:đóng
+trc:trước
+cn:chủ nhật
+trvia:trộm vía
+thơi:hơi
+dsi:đi
+hịn:xịn
+đep:đẹp
+lá zà đa:lazada
+chinh:chính
+hang:hãng
+nguyen:nguyênngayd:ngày
+good:tốt
+phone:điện thoại
+enjoying:thích
+easier:dễ
+use:sử dụng
+excellent:xuất xắc
+tỉnh:tốt
+tr:trời
+ko:không
+kêt:tốt
+u:dụng
+sam:samsung
+dđ:di động
+toot:tốt
+lươnhj:lượng
+luoin:luôn
+goij:gọi
+điênj:điện
+thoaij:thoại
+ohaamr:phẩm
+guao:giao
+long:lỏng
+luong:lượng
+chat:chất
+pham:phẩm
+san:sản
+xiu:xỉu
+chẳng:không
+la za da:lazada
+hành:hàng
+chưa:không
+newseal: hàng mới
+xanh la:xanh lá
+nhạn:nhanh
+moii:mọi
+oke:tốt
+multifunction: đa chức năng
+perfect: hoàn hảo
+unbox: mở hộp
+dụng:dùng
+setup:cài đặt
+vn:việt nam
+nguyện:nguyên
+đángg:đáng
+da:đa
+như:đúng
+dụng:dùng
+cs:có
+cám:cảm
+natural:tự nhiên
+ti tan ium:titan
+ổk:ổn
+xiềng:tiền
+xiền:tiền
+okok:tốt
+tuyet:tuyệt
+oki:tốt
+web:website
+im:tôi
+ko:không
+thankiu: cảm ơn
+hổ:hỗ
+la za da:lazada
+ok:tốt
+slow:chậm
+film:phim
+quickly: nhanh chóng
+delivered: giao hàng
+carefully: cẩn thận
+packing: đóng gói
+product: sản phẩm
+gia:giá
+okokokokk:tốt
+da:đa
+châm:chậm
+longlasting: lâu dài
+battery: pin
+life: thời lượng
+powerful: mạnh
+chip
+multitasking: đa nhiệm
+vote: bình_chọn
+color: màu
+black: đen
+nice: tốt
+hai: hài
+check: kiểm tra
+gian: giao
+ko: không
+seal: tem
+bill: hóa đơn
+nice: tốt
+zời: vời
+đth: điện_thoại
+kỉ: kỹ
+kĩ: kỹ
+ki: kỹ
+material: vật_liệu
+ti tan: titan
+hời: rẻ
+goi: gói
+trieu: triệu
+lazasa: lazada
+tu: tự
+nhien: nhien
+xĩu: xỉu
+hịn: xịn
+sales: giảm
+hảng:hãng
+sịn:xịn
+sún: xuống
+adr: android
+aiphon: iphone
+anđờroi: android
+ip: iphone
+review: đánh_giá
+reviewer: người_đánh_giá
+xcho: cho
+hẹc: hình
+ko: không
+androi: android
+anđờroi: android
+design: thiết_kế
+phèn: tệ
+dốt: tệ
+ngu: tệ
+rin: tốt
+caanr: cẩn
+chả: không
+sịt: xịn
+lácchậm: lag chậm
+trể: hệ
+thông: thống
+xaomi: xiaomi
+tươi: tốt
+androj: android
+andr: android
+androi: android
+xin: xịn
+ip: iphone
+r: rồi
+vaog: vào
+rui: rồi
+appel: apple
+đh: điều hành
+iu: yêu
+cảm: camera
+chưua: không
+chưa: không
+ms: mới
+ukiela: tốt
+đvvc: đơn vị vận chuyển
+ko: không
+ko:không
+khog: không
+khoog: không
+khôg: không
+ 
